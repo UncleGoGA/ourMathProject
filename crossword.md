@@ -1,2 +1,2 @@
 # crossword
-!(crossword)[biocrossword.png]
+![crossword](crossword.png)
